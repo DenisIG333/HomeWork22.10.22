@@ -1,0 +1,15 @@
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\bin\Debug\net6.0\Work23.exe
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\bin\Debug\net6.0\Work23.deps.json
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\bin\Debug\net6.0\Work23.runtimeconfig.json
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\bin\Debug\net6.0\Work23.dll
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\bin\Debug\net6.0\Work23.pdb
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\obj\Debug\net6.0\Work23.csproj.AssemblyReference.cache
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\obj\Debug\net6.0\Work23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\obj\Debug\net6.0\Work23.AssemblyInfoInputs.cache
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\obj\Debug\net6.0\Work23.AssemblyInfo.cs
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\obj\Debug\net6.0\Work23.csproj.CoreCompileInputs.cache
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\obj\Debug\net6.0\Work23.dll
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\obj\Debug\net6.0\refint\Work23.dll
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\obj\Debug\net6.0\Work23.pdb
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\obj\Debug\net6.0\Work23.genruntimeconfig.cache
+C:\Users\DenisHP\Desktop\GeekBrains\HomeWork_22.10.22\Work23\obj\Debug\net6.0\ref\Work23.dll
